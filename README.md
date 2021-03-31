@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Pratibha, owner of @keepbrewing and @ChibiLovesLearning.
+- 🔭 I’m currently working on C#.
+- Pronouns: She/Her
 
 <!--
 **keepbrewing/keepbrewing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
